@@ -40,7 +40,7 @@ The Random Forest classifier achieved the following performance on the test data
 
 This project demonstrates the end-to-end process of building, training, and deploying a machine learning model for mobile price classification using Amazon SageMaker and S3 services.
 
-Proof of deployment:
+**Proof of deployment:**
 
 ![Screenshot 2024-12-10 at 12 03 32 AM](https://github.com/user-attachments/assets/87505ba5-81e6-46d6-bec6-e0eb7587075f)
 
